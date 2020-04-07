@@ -25,6 +25,8 @@ public class FairDice {
         Random randGenerator = new Random();
         printDiceRolls(randGenerator);
         
+        //comment added
+        
     }
     
 }
