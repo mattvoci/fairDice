@@ -16,6 +16,11 @@ public class FairDice {
     /**
      * @param randGenerator
      */
+    
+    /**
+     * HI ZI IS THIS WORKING??
+     * @param randGenerator 
+     */
     public static void printDiceRolls(Random randGenerator) {
         for (int i = 0; i < 100; i++) {
             System.out.println(randGenerator.nextInt(6) + 1);
